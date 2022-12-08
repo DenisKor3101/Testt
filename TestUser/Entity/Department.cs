@@ -12,15 +12,18 @@ namespace TestUser.Entity
     using System;
     using System.Collections.Generic;
     
-    public partial class User
+    public partial class Department
     {
-        public int UserId { get; set; }
-        public string Login { get; set; }
-        public string Password { get; set; }
-        public int RoleId { get; set; }
-        public int DepartmentId { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public Department()
+        {
+            this.User = new HashSet<User>();
+        }
     
-        public virtual Department Department { get; set; }
-        public virtual Role Role { get; set; }
+        public int DepartmentId { get; set; }
+        public string DepartmentName { get; set; }
+    
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<User> User { get; set; }
     }
 }

@@ -25,6 +25,7 @@ namespace TestUser.Entity
             throw new UnintentionalCodeFirstException();
         }
     
+        public virtual DbSet<Department> Department { get; set; }
         public virtual DbSet<Role> Role { get; set; }
         public virtual DbSet<User> User { get; set; }
     }
