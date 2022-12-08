@@ -1,0 +1,15 @@
+C:\Users\stud\Desktop\TestUser\TestUser\bin\Debug\TestUser.exe.config
+C:\Users\stud\Desktop\TestUser\TestUser\bin\Debug\TestUser.exe
+C:\Users\stud\Desktop\TestUser\TestUser\bin\Debug\TestUser.pdb
+C:\Users\stud\Desktop\TestUser\TestUser\bin\Debug\EntityFramework.dll
+C:\Users\stud\Desktop\TestUser\TestUser\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stud\Desktop\TestUser\TestUser\bin\Debug\EntityFramework.xml
+C:\Users\stud\Desktop\TestUser\TestUser\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stud\Desktop\TestUser\TestUser\obj\Debug\TestUser.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\TestUser\TestUser\obj\Debug\TestUser.Form1.resources
+C:\Users\stud\Desktop\TestUser\TestUser\obj\Debug\TestUser.Properties.Resources.resources
+C:\Users\stud\Desktop\TestUser\TestUser\obj\Debug\TestUser.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\TestUser\TestUser\obj\Debug\TestUser.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\TestUser\TestUser\obj\Debug\TestUser.csproj.CopyComplete
+C:\Users\stud\Desktop\TestUser\TestUser\obj\Debug\TestUser.exe
+C:\Users\stud\Desktop\TestUser\TestUser\obj\Debug\TestUser.pdb
